@@ -1,28 +1,29 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
+
 const NewsLetter = () => {
   return (
     <div className="bg-[#1e2832] bg-opacity-5 xl:px-28 px-4 py-16">
       <h2 className="title mb-8">Follow product and discount on Instagram</h2>
       <div className="flex flex-wrap gap-4 items-center justify-center mb-20">
         <Link to="/">
-          <img src="../public/Images/wall.jpg" alt="" />
+          <img src="../public/images/wall.jpg" alt="" />
         </Link>
         <Link to="/">
-          <img src="../public/Images/wall.jpg" alt="" />
+          <img src="../public/images/wall.jpg" alt="" />
         </Link>
         <Link to="/">
-          <img src="../public/Images/wall.jpg" alt="" />
+          <img src="../public/images/wall.jpg" alt="" />
         </Link>
         <Link to="/">
-          <img src="../public/Images/wall.jpg" alt="" />
+          <img src="../public/images/wall.jpg" alt="" />
         </Link>
         <Link to="/">
-          <img src="../public/Images/wall.jpg" alt="" />
+          <img src="../public/images/wall.jpg" alt="" />
         </Link>
         <Link to="/">
-          <img src="../public/Images/wall.jpg" alt="" />
+          <img src="../public/images/wall.jpg" alt="" />
         </Link>
       </div>
       <div>
