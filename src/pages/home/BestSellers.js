@@ -13,7 +13,7 @@ const BestSellers = () => {
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
-    fetch("product.json")
+    fetch("/Product.json")
       .then((res) => res.json()) // Call .json() as a function
       .then((data) => setProducts(data));
   }, []);
