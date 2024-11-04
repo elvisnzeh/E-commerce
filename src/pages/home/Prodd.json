@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "title": "Men's T-Shirt",
+        "category": "Clothing",
+        "price": 19.99,
+        "image": "Images/T1.webp",
+        "status":"Best Sellers"
+    },
+    {
+        "id": 2,
+        "title": "Women's Hoodie",
+        "category": "Hoodies",
+        "price": 34.99,
+        "image": "Images/T2.avif",
+        "status": "Best Sellers"
+    },
+    {
+        "id": 3,
+        "title": "Denim Jeans",
+        "category": "Hoodies",
+        "price": 39.99,
+        "image": "Images/T3.avif",
+        "status": "Best Sellers"
+    },
+    {
+        "id": 4,
+        "title": "Leather Jacket",
+        "category": "Clothing",
+        "price": 89.99,
+        "image": "Images/T4.avif",
+        "status": "Best Sellers"
+    },
+    {
+        "id": 5,
+        "title": "Sports Shorts",
+        "category": "Clothing",
+        "price": 24.99,
+        "image": "Images/T5.webp",
+        "status": "Best Sellers"
+    },
+    {
+        "id": 6,
+        "title": "Summer Dress",
+        "category": "Clothing",
+        "price": 49.99,
+        "image": "Images/T10.webp",
+        "status": "Best Sellers"
+    },
+    {
+        "id": 7,
+        "title": "Winter Coat",
+        "category": "Clothing",
+        "price": 129.99,
+        "image": "Images/T11.jpg",
+        "status": "Best Sellers"
+    },
+    {
+        "id": 8,
+        "title": "Winter Coat",
+        "category": "Clothing",
+        "price": 179.99,
+        "image": "Images/T12.jpg",
+        "status": "Best Sellers"
+    },
+    {
+        "id": 9,
+        "title": "Winter Coat",
+        "category": "Hoodies",
+        "price": 129.99,
+        "image": "Images/T13.jpeg",
+        "status": "Best Sellers"
+    },
+   
+      {
+        "id": 9,
+        "title": "Winter Coat",
+        "category": "Hoodies",
+        "price": 129.99,
+        "image": "Images/T13.jpeg",
+        "status": "Best Sellers"
+    }
+]
+   

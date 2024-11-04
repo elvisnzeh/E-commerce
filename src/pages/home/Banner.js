@@ -18,12 +18,11 @@ function Banner() {
           </button>
         </div>
         <div className="md:w-1/2">
-        <img
-  src={first}
-  alt="Description of image"
-  className="w-full h-auto max-h-[600px] object-cover rounded-lg shadow-lg mx-auto"
-/>
-
+          <img
+            src={first}
+            alt="Description of image"
+            className="w-full h-auto max-h-[600px] object-cover rounded-lg shadow-lg mx-auto"
+          />
         </div>
       </div>
     </div>
